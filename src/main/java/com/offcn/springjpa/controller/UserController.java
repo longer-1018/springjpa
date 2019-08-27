@@ -19,6 +19,11 @@ public class UserController {
     @Autowired
     UserService userService;
 
+    public void test2(){
+        System.out.println("test...");
+    }
+
+
     /**
      * 获取全部用户信息
      * @param model
