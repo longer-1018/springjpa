@@ -19,13 +19,14 @@ public class UserController {
     @Autowired
     UserService userService;
 
-<<<<<<< Updated upstream
-    public void test2(){
+
+    public void test2() {
         System.out.println("test...");
-=======
+    }
+
     public void test3(){
         System.out.println("test3...........");
->>>>>>> Stashed changes
+
     }
 
 
